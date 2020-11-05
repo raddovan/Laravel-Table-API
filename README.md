@@ -1,4 +1,4 @@
-# React-material-table-CRUD
+# Laravel-Table-API
 
 React-material-table-CRUD is a Laravel RESTful API for https://github.com/raddovan/React-material-table-CRUD project.
 
