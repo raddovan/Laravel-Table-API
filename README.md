@@ -1,6 +1,6 @@
 # React-material-table-CRUD
 
-React-material-table-CRUD is a Laravel RESTful API for React-table-pagination project.
+React-material-table-CRUD is a Laravel RESTful API for [React](../README.md) React-table-pagination project.
 
 ## Installation
 
